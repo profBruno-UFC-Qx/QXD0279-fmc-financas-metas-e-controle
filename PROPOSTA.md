@@ -1,6 +1,6 @@
 # :checkered_flag: FinanBoard
 
-O FinanBoard é a proposta de um espaço web onde as pessoas podem registrar receitas e despesas, acompanhar seu saldo, categorizar os gastos e estabelecer metas financeiras, além de ser possível criar espaços compartilhados, onde é possível registrra uma despesa, definir quanto cada um vai pagar, e acompanhar os valores que já foram pagos ou estão pendentes.
+O FinanBoard é a proposta de uma aplicação web onde as pessoas podem registrar receitas e despesas, acompanhar seu saldo, categorizar os gastos e estabelecer metas financeiras, além de ser possível criar espaços compartilhados, onde é possível registrar uma despesa, definir quanto cada um vai pagar, e acompanhar os valores que já foram pagos ou estão pendentes.
 
 ## :technologist: Membros da equipe
 
@@ -14,7 +14,7 @@ Desenvolver uma aplicação web para gerenciamento de finanças pessoais e compa
 Pessoas que desejam gerenciar suas finanças pessoais e compartilhadas de forma mais consciente.
 
 ## :star2: Impacto Esperado
-Espera-se que que a aplicação facilite o controle financeiro, proporcionando mais clareza sobre as receitas, despesas, saldo e divisão de ga
+Espera-se que que a aplicação facilite o controle financeiro, proporcionando mais clareza sobre as receitas, despesas, saldo e divisão de gastos.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
